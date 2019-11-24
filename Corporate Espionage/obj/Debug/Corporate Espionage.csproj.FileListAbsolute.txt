@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\bin\Debug\Corporate Espionage.exe.config
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\bin\Debug\Corporate Espionage.exe
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\bin\Debug\Corporate Espionage.pdb
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\MainWindow.g.cs
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\App.g.cs
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage_MarkupCompile.cache
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage_MarkupCompile.lref
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\MainWindow.baml
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage.g.resources
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate_Espionage.Properties.Resources.resources
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage.csproj.GenerateResource.cache
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage.exe
+C:\Users\MCA\source\repos\Corporate Espionage\Corporate Espionage\obj\Debug\Corporate Espionage.pdb
